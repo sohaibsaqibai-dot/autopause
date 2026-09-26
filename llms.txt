@@ -1,0 +1,14 @@
+# AutoPause – Tab Pause & Continue Watching Blocker
+
+> Free Chrome extension (v2.0) that pauses YouTube when you switch tabs, resumes when you return, and automatically skips the "Video paused. Continue watching?" prompt on YouTube and YouTube Music. Runs 100% locally: no tracking, no account, no servers. Only permission: storage.
+
+## Links
+- [Install from the Chrome Web Store](https://chromewebstore.google.com/detail/fngfjbgfjegboebjladmjghpppmnjjal)
+- [Home & FAQ](index.html)
+- [Privacy Policy](privacy.html)
+
+## Key facts
+- Tab Auto-Pause: pauses on tab switch/minimize, resumes on return, never overrides a manual pause
+- NonStop Playback: skips "Continue watching?" / "Still listening?" and can prevent it from appearing
+- Works on www.youtube.com and music.youtube.com
+- Contact: saqibsohaib48@gmail.com
